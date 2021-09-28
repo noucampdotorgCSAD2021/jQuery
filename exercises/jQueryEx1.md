@@ -11,7 +11,7 @@ This will copy some jQuery program files to you ``htdocs`` folder.
 
 1.	Download the [jQuery repository](https://github.com/noucampdotorgCSAD2021/jQuery)
 
-1.	Copy the 'jQuery-main' folder into your `htdocs` folder.  
+1.	Copy the `jQuery-main` folder into your `htdocs` folder.  
 
 1.	Rename the `jQuery-main` folder as `jQuery`
 
