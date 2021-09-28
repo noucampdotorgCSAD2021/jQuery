@@ -1,2 +1,2 @@
-# jQuery
+# jquery
 jQuery
